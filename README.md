@@ -15,3 +15,5 @@ hyprshot
 swaync
 nwg-look
 catppucin gtk theme - frappe
+bibata cursor
+dracula icons
